@@ -3,3 +3,4 @@ This is a cloned file.
 We are learning about branch.
 
 Thiss is for features 2.
+Now this is for feature2.
