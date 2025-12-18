@@ -1,1 +1,5 @@
 We are having fun.
+This is a cloned file. 
+We are learning about branch.
+
+Thiss is for features 2.
